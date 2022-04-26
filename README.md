@@ -1,6 +1,4 @@
-# stoicOSC
-
-STOIC: TouchOSC Reaper/Realearn Template
+# STOIC: TouchOSC Reaper/Realearn Template
 
 STOIC is almost an anagram of TOSC, you can chose what the I means.
 
